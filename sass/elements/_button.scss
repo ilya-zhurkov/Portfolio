@@ -1,0 +1,21 @@
+.button {
+    position: relative;
+    z-index: 1;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    padding: 19px 40px;
+    height: 64px;
+
+    background: #FBDC4D;
+    border-radius: 50px;
+
+    &:hover{
+        background: #EFF7FC;
+    }
+
+    @media (max-width: 899px) {
+        display: none;
+    }
+}

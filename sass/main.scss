@@ -1,0 +1,24 @@
+// Base
+@import "./base/vars";
+@import "./base/reset";
+@import "./base/base";
+
+// Blocks
+@import "./blocks/header";
+@import "./blocks/portfolio";
+@import "./blocks/rules";
+@import "./blocks/contacts";
+@import "./blocks/footer";
+
+// Elements
+@import "./elements/title";
+@import "./elements/mail";
+@import "./elements/button";
+@import "./elements/gradient";
+@import "./elements/slider";
+@import "./elements/social";
+@import "./elements/nav-icon";
+@import "./elements/nav";
+
+// Media
+@import "./media/media";
